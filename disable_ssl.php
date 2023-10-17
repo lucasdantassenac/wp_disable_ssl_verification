@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       Disable SSL
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin URI:        https://github.com/lucasdantassenac/wp_disable_ssl_verification
  * Description:       Disable ssl verification of wp
  * Version:           1.0.0
  * Author:            Lucas Dantas
